@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "623068041745",
+    "firebase_url": "https://polyshop68-default-rtdb.firebaseio.com",
+    "project_id": "polyshop68",
+    "storage_bucket": "polyshop68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623068041745:android:00915c08e897a8e78397b0",
+        "android_client_info": {
+          "package_name": "com.Meryem.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623068041745-rh2ak5f12ksr0jcqv8bbsev26un30ftm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Meryem.shopping",
+            "certificate_hash": "b82da3e3f763be446676b43cbee2674ac40e0a79"
+          }
+        },
+        {
+          "client_id": "623068041745-odedc6dkn8e8ekehrsqgc5g6blib8uet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJuppZK6zbsdVZV3DQO5MdNCP8L1I5Cq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623068041745-odedc6dkn8e8ekehrsqgc5g6blib8uet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623068041745:android:0be4f3daf1f14c268397b0",
+        "android_client_info": {
+          "package_name": "com.example.ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623068041745-odedc6dkn8e8ekehrsqgc5g6blib8uet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJuppZK6zbsdVZV3DQO5MdNCP8L1I5Cq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623068041745-odedc6dkn8e8ekehrsqgc5g6blib8uet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
